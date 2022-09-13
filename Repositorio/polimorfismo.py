@@ -5,6 +5,8 @@ print('Função len():')
 print(len("ConstruDelas"))
 print(len([10, 20, 30]))
 
+
+
 # Podemos criar uma função que aceita tipos diferentes de parâmetros,
 # permitindo assim o polimorfismo.
 
